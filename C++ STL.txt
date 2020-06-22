@@ -1,0 +1,41 @@
+C++ stl
+sort(v.begin(),v.end)
+binary_search(a,a+10,2) returns bool value
+reverse(v.begin(),v.end())
+*max_element(v.bein(),v.end())
+* min_element
+accumulate(v.begin(),v.end()) summation of vector
+count(v.begin(),v end(),x) count occurence of x
+find(v.begin(),v.end(),x)
+lower_bound(v.begin(),v.end(),x) immediate less than x in v
+upper_bound
+v.erase(v.begin+1)
+v.erase(unique(v.begin(),v.end()),v.end()) remove duplicate
+next_permutation(v.begin(),v.end())
+prev_permutation
+distance(v.begin(),v.end())
+all_of
+any_of
+none_of
+copy_n
+iota()
+is_partition
+partition(v.begin(),v.end(),[](int x){
+return x%2==0;
+});
+stable_partition(beg,end,cond)
+partition_point(beg,end,cond)
+newv = v.apply([](int x){ return x=x+5})
+v.sum()
+v.min()
+v.max()
+newv=v.shift(2)
+v.cshift(2) circlatory shift
+v1.swap(v2)
+_builtin_popcount(x) no. of setbits in an integer
+returns int
+_builtin_popcountl(x) long
+_builtin_poocountll(x) long long
+_builtin_parity(x) return true for odd parity
+_builtin_clz(x) count leading zeros
+_builtin_ctz(x) count trailing zeros
