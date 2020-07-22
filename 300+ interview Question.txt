@@ -1,0 +1,15 @@
+(h-help, wh-without help)
+
+Reverse bits (h)
+single no. (h) 
+find duplicate (h)
+word search (h)
+count set bits (h)
+rotate matrix (wh)
+maximum contiguous subarray (wh)
+pascal triangle (wh)
+Kth row of pascal triangle (wh)
+inorder (wh)
+preorder (wh)
+postorder (wh)
+
