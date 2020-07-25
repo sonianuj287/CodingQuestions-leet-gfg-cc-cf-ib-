@@ -1,0 +1,48 @@
+Reverse bits (h)
+single no. (h) 
+find duplicate (h)
+word search (h)
+count set bits (h)
+Merge Intervals (h)
+Divide two Integers (h)
+lowest common Ancestor(h)
+Different Bits sum Pairwise(h)
+Min Xor value(h)
+sorted list to Binary search tree(h)
+Capture Regions on board(h)
+longest inc subsequence(h)
+Max Rectangle in binary matrix(h)
+Largest Rectangle in histogram(h)
+Unique Paths(h)
+Maximum Product subarray(h)
+Best time to Buy and sell stock I(h)
+Edit distance(h)
+Jump Game Array(h)
+Number of Good Ways to Split a String(h)
+number of subarray with odd sum(h)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+rotate matrix (wh)
+maximum contiguous subarray (wh)
+pascal triangle (wh)
+Kth row of pascal triangle (wh)
+inorder (wh)
+preorder (wh)
+postorder (wh)
+Zig Zag level order traversal(wh)
+level order(wh)
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(h-help, wh-without help)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Repeat circuit
+1.28 july
+2.14 august
+
