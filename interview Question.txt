@@ -20,6 +20,9 @@ Edit distance(h)
 Jump Game Array(h)
 Number of Good Ways to Split a String(h)
 number of subarray with odd sum(h)
+min Jumps array(h)
+Dungeon Princess(h)
+Decode Ways(h)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 rotate matrix (wh)
 maximum contiguous subarray (wh)
@@ -30,7 +33,7 @@ preorder (wh)
 postorder (wh)
 Zig Zag level order traversal(wh)
 level order(wh)
-
+stairs(wh)
 
 
 
