@@ -23,6 +23,7 @@ number of subarray with odd sum(h)
 min Jumps array(h)
 Dungeon Princess(h)
 Decode Ways(h)
+Task scheduler(h)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 rotate matrix (wh)
 maximum contiguous subarray (wh)
