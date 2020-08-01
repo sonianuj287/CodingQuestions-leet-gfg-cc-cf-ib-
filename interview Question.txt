@@ -24,6 +24,7 @@ min Jumps array(h)
 Dungeon Princess(h)
 Decode Ways(h)
 Task scheduler(h)
+longest common subsequence(h)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 rotate matrix (wh)
 maximum contiguous subarray (wh)
@@ -49,4 +50,54 @@ stairs(wh)
 Repeat circuit
 1.28 july
 2.14 august
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CISCO QUESTIONS
 
+Reverse Linked list(wh)
+Two sum
+merge intervals
+add two numbers
+longest substring without repeating characters
+lru cache
+lca
+reverse string
+merge sorted array
+delete node in linked list
+reorder list
+min stack
+reverse words in string
+reverse nodes in k group
+remove duplicates in sorted array
+strobgrammatic number 2
+rotate array
+search in rotated array
+longest palindrome substring
+valid parenthesis
+shuffle an array
+no. of islands
+rotate image
+longest common prefix
+best time to buy and sell stock
+valid anagram
+edit distance
+spiral matrix
+preorder
+level order traversal
+can place flowers
+3sum
+maximum product of three numbers
+merge two sorted lists
+coin change 2
+valid palindrome
+balanced binary tree
+meeting rooms 2
+maximum subarray
+perfect squares
+middle of the linked list
+permutations
+bst iterator
+remove nth node from end of list
+string to integer
+reverse integer
+fizz buzz
+palindrome number
